@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54a69120-adb4-48f5-afc0-2ee5e6065523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54a69120-adb4-48f5-afc0-2ee5e6065523" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,35 +112,37 @@
               <OriginalElement>org.launchcode.lesson7.Circle</OriginalElement>
               <nodes>
                 <node x="0.0" y="164.0">org.launchcode.lesson7.Rectangle</node>
-                <node x="391.0" y="0.0">org.launchcode.lesson7.Geometry</node>
-                <node x="321.5" y="82.0">org.launchcode.lesson7.Shape</node>
+                <node x="264.0" y="0.0">org.launchcode.lesson7.Geometry</node>
+                <node x="363.5" y="82.0">org.launchcode.lesson7.Shape</node>
                 <node x="43.0" y="325.0">org.launchcode.lesson7.Square</node>
-                <node x="212.0" y="0.0">java.lang.Comparable</node>
-                <node x="289.0" y="177.0">org.launchcode.lesson7.Circle</node>
-                <node x="483.0" y="164.0">org.launchcode.lesson7.Triangle</node>
+                <node x="423.0" y="0.0">java.lang.Comparable</node>
+                <node x="567.0" y="177.0">org.launchcode.lesson7.Circle</node>
+                <node x="289.0" y="164.0">org.launchcode.lesson7.Triangle</node>
               </nodes>
               <notes />
               <edges>
                 <edge source="org.launchcode.lesson7.Shape" target="org.launchcode.lesson7.Geometry">
-                  <point x="27.25" y="-16.0" />
-                  <point x="403.25" y="57.0" />
-                  <point x="460.5" y="57.0" />
+                  <point x="-27.25" y="-16.0" />
+                  <point x="390.75" y="57.0" />
+                  <point x="333.5" y="57.0" />
                   <point x="0.0" y="16.0" />
                 </edge>
                 <edge source="org.launchcode.lesson7.Circle" target="org.launchcode.lesson7.Shape">
                   <point x="0.0" y="-42.5" />
-                  <point x="0.0" y="16.0" />
+                  <point x="654.0" y="139.0" />
+                  <point x="454.33333333333337" y="139.0" />
+                  <point x="36.33333333333337" y="16.0" />
                 </edge>
                 <edge source="org.launchcode.lesson7.Shape" target="java.lang.Comparable">
-                  <point x="-27.25" y="-16.0" />
-                  <point x="348.75" y="57.0" />
-                  <point x="291.5" y="57.0" />
+                  <point x="27.25" y="-16.0" />
+                  <point x="445.25" y="57.0" />
+                  <point x="502.5" y="57.0" />
                   <point x="0.0" y="16.0" />
                 </edge>
                 <edge source="org.launchcode.lesson7.Rectangle" target="org.launchcode.lesson7.Shape">
                   <point x="0.0" y="-55.5" />
                   <point x="134.5" y="139.0" />
-                  <point x="339.6666666666667" y="139.0" />
+                  <point x="381.6666666666667" y="139.0" />
                   <point x="-36.333333333333314" y="16.0" />
                 </edge>
                 <edge source="org.launchcode.lesson7.Square" target="org.launchcode.lesson7.Rectangle">
@@ -152,12 +151,10 @@
                 </edge>
                 <edge source="org.launchcode.lesson7.Triangle" target="org.launchcode.lesson7.Shape">
                   <point x="0.0" y="-55.5" />
-                  <point x="612.0" y="139.0" />
-                  <point x="412.33333333333337" y="139.0" />
-                  <point x="36.33333333333337" y="16.0" />
+                  <point x="0.0" y="16.0" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="287.0" y="154.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="351.0" y="154.0" />
               <SelectedNodes />
               <Categories>
                 <Category>Constructors</Category>
@@ -256,19 +253,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lesson7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lc101-class7-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lc101-class7-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lc101-class7-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lc101-class7-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,7 +383,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575251521600</updated>
       <workItem from="1575251524283" duration="5439000" />
-      <workItem from="1575325627347" duration="4105000" />
+      <workItem from="1575325627347" duration="4398000" />
     </task>
     <servers />
   </component>
@@ -421,11 +405,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9544000" />
+    <option name="totallyTimeSpent" value="9837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="720" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3029316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -630,35 +613,37 @@
           <OriginalElement>org.launchcode.lesson7.Circle</OriginalElement>
           <nodes>
             <node x="0.0" y="164.0">org.launchcode.lesson7.Rectangle</node>
-            <node x="391.0" y="0.0">org.launchcode.lesson7.Geometry</node>
-            <node x="321.5" y="82.0">org.launchcode.lesson7.Shape</node>
+            <node x="264.0" y="0.0">org.launchcode.lesson7.Geometry</node>
+            <node x="363.5" y="82.0">org.launchcode.lesson7.Shape</node>
             <node x="43.0" y="325.0">org.launchcode.lesson7.Square</node>
-            <node x="212.0" y="0.0">java.lang.Comparable</node>
-            <node x="289.0" y="177.0">org.launchcode.lesson7.Circle</node>
-            <node x="483.0" y="164.0">org.launchcode.lesson7.Triangle</node>
+            <node x="423.0" y="0.0">java.lang.Comparable</node>
+            <node x="567.0" y="177.0">org.launchcode.lesson7.Circle</node>
+            <node x="289.0" y="164.0">org.launchcode.lesson7.Triangle</node>
           </nodes>
           <notes />
           <edges>
             <edge source="org.launchcode.lesson7.Shape" target="org.launchcode.lesson7.Geometry">
-              <point x="27.25" y="-16.0" />
-              <point x="403.25" y="57.0" />
-              <point x="460.5" y="57.0" />
+              <point x="-27.25" y="-16.0" />
+              <point x="390.75" y="57.0" />
+              <point x="333.5" y="57.0" />
               <point x="0.0" y="16.0" />
             </edge>
             <edge source="org.launchcode.lesson7.Circle" target="org.launchcode.lesson7.Shape">
               <point x="0.0" y="-42.5" />
-              <point x="0.0" y="16.0" />
+              <point x="654.0" y="139.0" />
+              <point x="454.33333333333337" y="139.0" />
+              <point x="36.33333333333337" y="16.0" />
             </edge>
             <edge source="org.launchcode.lesson7.Shape" target="java.lang.Comparable">
-              <point x="-27.25" y="-16.0" />
-              <point x="348.75" y="57.0" />
-              <point x="291.5" y="57.0" />
+              <point x="27.25" y="-16.0" />
+              <point x="445.25" y="57.0" />
+              <point x="502.5" y="57.0" />
               <point x="0.0" y="16.0" />
             </edge>
             <edge source="org.launchcode.lesson7.Rectangle" target="org.launchcode.lesson7.Shape">
               <point x="0.0" y="-55.5" />
               <point x="134.5" y="139.0" />
-              <point x="339.6666666666667" y="139.0" />
+              <point x="381.6666666666667" y="139.0" />
               <point x="-36.333333333333314" y="16.0" />
             </edge>
             <edge source="org.launchcode.lesson7.Square" target="org.launchcode.lesson7.Rectangle">
@@ -667,12 +652,10 @@
             </edge>
             <edge source="org.launchcode.lesson7.Triangle" target="org.launchcode.lesson7.Shape">
               <point x="0.0" y="-55.5" />
-              <point x="612.0" y="139.0" />
-              <point x="412.33333333333337" y="139.0" />
-              <point x="36.33333333333337" y="16.0" />
+              <point x="0.0" y="16.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="287.0" y="154.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="351.0" y="154.0" />
           <SelectedNodes />
           <Categories>
             <Category>Constructors</Category>
